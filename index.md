@@ -63,6 +63,7 @@ __Yelp Camp:__
 ## Skills
 
 __Languages:__, Java, Python, Javascript
+
 __Development Skills:__, HTML5/CSS3, jQuery, Webpack, d3.js, ReactJS, ExpressJS, Node.js, Git, Bootstrap, MongoDB, MySQL, PostgreSQL, REST,Apache Spark, Kafka
 
 
