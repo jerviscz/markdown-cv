@@ -49,7 +49,7 @@ __Citi__, Investment Banking Analyst
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Data Visualization For Web:
+__Data Visualization For Web:__
 - Performed data wrangling using SQL and generated JSON ﬁles for data analysis
 - Implemented dynamic webpages for both PC and mobile devices based on D3.js, using Javascript,HTML and CSS
 
