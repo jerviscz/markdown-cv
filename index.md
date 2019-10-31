@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jason Chen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jason Chen
+Graduate Student at Cornell University.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
