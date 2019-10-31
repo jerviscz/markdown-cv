@@ -28,11 +28,22 @@ __Emerson College__
 ## Experience
 
 `May 2019 - Aug 2019`
-__Intel__
-__Tech Intern__
-- Bachelor of Arts in Film Production, Minor in Finance
+__Intel__, Tech Intern
+- Framework: Implemented deep learning networks and framework Caffe to identify performance bottlenecks and optimization opportunities
+- Research: Developed an understanding of customer AI market segments to share with the business unit for future product planning
+and roadmaps.
+- Test: Tested sites in various devices to ensure cross-devices compatibility.
 
+`Sept 2018 - Dec 2018`
+__Red Hat, Inc.__, Graduate Software Developer
+- UX: Lead UX solution of RedHats Open Source web project SecurityCentral, prototyped workﬂow of tracking security reports; Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across SecurityCentral
+- UI: Designed and implemented dashboard for SecurityCentral with the Javascript and PATTERNFLY Library
+- Deliverable: Final works submitted as a demo to GSA 10x that funds technology ideas improving peoples experience with government
 
+`May 2017 - Dec 2017`
+__Citi__, Investment Banking Analyst
+- Research: Produced technology reports to evaluate YIRENDAI LTD. (NYSE: YRD) and China Rapid Finance Ltd (NYSE:XRF), identifying current tech stack they are using and evaluating variances
+- Data: Compiled data to generate ﬁnancial statements including cash ﬂow and balance sheet for review for manager to review
 
 ## Publications
 
