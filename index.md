@@ -3,45 +3,29 @@ layout: cv
 title: Jason Chen's CV
 ---
 # Jason Chen
-Graduate Student at Cornell University.
+Graduate Student at Cornell University with less than one year of experience in web development and performance optimization. Familiar with Apache Spark, D3.js and Python. Procient in Java, SQL, JavaScript, ReactJs and HTML5/CSS3.
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/zhuo-jason-chen-b8a4b785/">Linkedin</a>
 </div>
 
 
-## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected Dec 2019`
+__Cornell University.__
+- Master in Information Science
+- Relevant Coursework: Visual Data Analytics for Web, Data Structures, Database Systems, Project Management, Design and Innovation, Design and Programming for the Web,Human Computer Interaction Studio,Object-Oriented Programming
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Sept 2014 - May 2017`
+__Emerson College__
+- Bachelor of Arts in Film Production, Minor in Finance
+- Relevant Coursework: Intro to Interactive Design, Advanced Interactive Design
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
+## Experience
 
 `2012`
 President, *Royal Society*, London, UK
