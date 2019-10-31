@@ -27,10 +27,10 @@ __Emerson College__
 
 ## Experience
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`May 2019 - Aug 2019`
+__Intel__
+__Tech Intern__
+- Bachelor of Arts in Film Production, Minor in Finance
 
 
 
