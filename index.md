@@ -45,11 +45,13 @@ __Citi__, Investment Banking Analyst
 - Research: Produced technology reports to evaluate YIRENDAI LTD. (NYSE: YRD) and China Rapid Finance Ltd (NYSE:XRF), identifying current tech stack they are using and evaluating variances
 - Data: Compiled data to generate ﬁnancial statements including cash ﬂow and balance sheet for review for manager to review
 
-## Publications
+## Projects
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Data Visualization For Web:
+- Performed data wrangling using SQL and generated JSON ﬁles for data analysis
+- Implemented dynamic webpages for both PC and mobile devices based on D3.js, using Javascript,HTML and CSS
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -80,6 +82,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: OCT 2019 -->
 
 
