@@ -53,30 +53,17 @@ __Data Visualization For Web:__
 - Performed data wrangling using SQL and generated JSON ﬁles for data analysis
 - Implemented dynamic webpages for both PC and mobile devices based on D3.js, using Javascript,HTML and CSS
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+__Weather APP:__
+- Designed responsive UI and led development of a web app for display weather, giving some input (city, country) displays that area’s weather, using Node.js and ReactJS 
+- Used API to connect web app to https://openweathermap.org to get the data of weather
 
-`1669`
-Lectiones opticæ.
+__Yelp Camp:__
+- A web application that allows users to share their camping experience by uploading photos and comments.Developed the backend using Node.js and Express, and utilized MongoDB to store users archive
 
-etc. etc. etc.
+## Skills
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Languages:__, Java, Python, Javascript
+__Development Skills:__, HTML5/CSS3, jQuery, Webpack, d3.js, ReactJS, ExpressJS, Node.js, Git, Bootstrap, MongoDB, MySQL, PostgreSQL, REST,Apache Spark, Kafka
 
 
 
